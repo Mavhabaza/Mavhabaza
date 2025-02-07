@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mavhabaza
 - 👀 I’m interested in web Development 
-- 🌱 I’m currently learning Django3-Full stack website with Python Web Development with Nick
+- 🌱 I’m currently learning Django3-Full stack website Python Web Development with Nick
 - 💞️ I’m looking to collaborate on different projects that will enhance my experience in becoming a wep developer.
 - 📫 I am also looking for people who can help me through this path.
 - #GoGitit #GoGithub
